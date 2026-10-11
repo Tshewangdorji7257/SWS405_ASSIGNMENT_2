@@ -1,0 +1,9 @@
+0x000000003eb0b770     16      0 R--r-- \Device\HarddiskVolume2\Program Files\Windows Media Player\Network Sharing\wmpnss_color48.png
+0x000000003eba1e50      1      1 -W-rw- \Device\HarddiskVolume2\Users\SmartNet\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+0x000000003ebb39b0     12      0 R--r-- \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg
+0x000000003ec9d2b0     18      1 RW-r-- \Device\HarddiskVolume2\Windows\Tasks\SCHEDLGU.TXT
+0x000000003fa3ebc0      1      0 R--r-- \Device\HarddiskVolume2\Users\Alissa Simpson\Documents\Important.rar
+0x000000003fac3bc0      1      0 R--r-- \Device\HarddiskVolume2\Users\Alissa Simpson\Documents\Important.rar
+0x000000003fb48bc0      1      0 R--r-- \Device\HarddiskVolume2\Users\Alissa Simpson\Documents\Important.rar
+0x000000003fcf7bb0      1      1 -W-rw- \Device\HarddiskVolume2\Users\ALISSA~1\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+0x000000003fda6470     12      0 R--r-- \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg

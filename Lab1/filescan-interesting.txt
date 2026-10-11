@@ -1,0 +1,178 @@
+0x000000003e8105e0      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Links\desktop.ini
+0x000000003e811220      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Favorites\desktop.ini
+0x000000003e811370      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Downloads\desktop.ini
+0x000000003e817070      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Favorites\Links for United States\desktop.ini
+0x000000003e8288a0      2      0 -W---- \Device\HarddiskVolume2\ProgramData\Microsoft\Crypto\RSA\MachineKeys\70c33714c1abfbe0e9eb6a98b63f0b36_b6e5f7b3-603d-49bb-9907-2d447987b31a
+0x000000003e83b630      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Pictures\desktop.ini
+0x000000003e83e070      1      0 R--rw- \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\Console RAR manual.lnk
+0x000000003e860070      1      0 R--r-- \Device\HarddiskVolume2\ProgramData\Microsoft\Crypto\RSA\MachineKeys\325e532bbdc789da6ab5e9368c8fd719_b6e5f7b3-603d-49bb-9907-2d447987b31a
+0x000000003e860d50      1      0 R--r-- \Device\HarddiskVolume2\ProgramData\Microsoft\Crypto\RSA\MachineKeys\395c313ac58a1378ef8960b5fc447dd6_b6e5f7b3-603d-49bb-9907-2d447987b31a
+0x000000003e865a20      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Music\desktop.ini
+0x000000003e87e070      1      1 R--rw- \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt
+0x000000003e8a0b20     12      0 R--r-d \Device\HarddiskVolume2\Windows\System32\keyiso.dll
+0x000000003e8a2f20      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Saved Games\desktop.ini
+0x000000003e8aa070      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Videos\desktop.ini
+0x000000003e8abf20      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Searches\desktop.ini
+0x000000003e8ac370      1      0 R--r-- \Device\HarddiskVolume2\ProgramData\Microsoft\Crypto\Keys\075b3649dfcfbf4419375e74424ddab2_b6e5f7b3-603d-49bb-9907-2d447987b31a
+0x000000003ea02b20      1      0 R--rwd \Device\HarddiskVolume2\Program Files (x86)\desktop.ini
+0x000000003eac2b30      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Documents\desktop.ini
+0x000000003eaeb570      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\desktop.ini
+0x000000003eaecad0      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\desktop.ini
+0x000000003eaf87c0      1      0 R--rwd \Device\HarddiskVolume2\Program Files\desktop.ini
+0x000000003eb0a3a0      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Links\desktop.ini
+0x000000003eb0b770     16      0 R--r-- \Device\HarddiskVolume2\Program Files\Windows Media Player\Network Sharing\wmpnss_color48.png
+0x000000003eb51290      1      0 R--rwd \Device\HarddiskVolume2\Windows\System32\desktop.ini
+0x000000003eb53f20      1      0 R--rwd \Device\HarddiskVolume2\Windows\assembly\Desktop.ini
+0x000000003eb5c820      2      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries\Music.library-ms
+0x000000003eb87c90      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Favorites\Links\desktop.ini
+0x000000003eb89070      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Favorites\Links for United States\desktop.ini
+0x000000003eb948b0      1      0 R--rwd \Device\HarddiskVolume2\Users\Public\Downloads\desktop.ini
+0x000000003eba1e50      1      1 -W-rw- \Device\HarddiskVolume2\Users\SmartNet\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+0x000000003eba3600     17      1 RW-rw- \Device\HarddiskVolume2\Users\SmartNet\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003eba6740      1      0 R--rwd \Device\HarddiskVolume2\Users\Public\Desktop\desktop.ini
+0x000000003ebad6c0      2      1 R--rwd \Device\HarddiskVolume2\Users\Public\Desktop
+0x000000003ebadc00      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\desktop.ini
+0x000000003ebadf20      2      1 R--rwd \Device\HarddiskVolume2\Users\Public\Desktop
+0x000000003ebae070      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Desktop
+0x000000003ebae3b0      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\desktop.ini
+0x000000003ebb25f0      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\desktop.ini
+0x000000003ebb2960      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\desktop.ini
+0x000000003ebb39b0     12      0 R--r-- \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg
+0x000000003ebb7760      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+0x000000003ebb7c90      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Desktop.ini
+0x000000003ebb83b0      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini
+0x000000003ebb9c50      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Desktop.ini
+0x000000003ebbab00      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini
+0x000000003ebbbb40      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\desktop.ini
+0x000000003ebbc3e0      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Desktop.ini
+0x000000003ebbe070      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\Maintenance\Desktop.ini
+0x000000003ebbf1e0      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\desktop.ini
+0x000000003ebbf740      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\Subsystem for UNIX-based Applications\Desktop.ini
+0x000000003ebbfcc0      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+0x000000003ebc02c0      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Desktop.ini
+0x000000003ebc1630      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Desktop.ini
+0x000000003ebc2480      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Tablet PC\Desktop.ini
+0x000000003ebc3720      1      0 R--rwd \Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows PowerShell\desktop.ini
+0x000000003ebc9410      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Searches\desktop.ini
+0x000000003ebc9780      1      0 R--rw- \Device\HarddiskVolume2\Users\SmartNet\Desktop\Firefox.lnk
+0x000000003ebcb4d0      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Contacts\desktop.ini
+0x000000003ebcc070      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Favorites\desktop.ini
+0x000000003ebd4d10      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Desktop\desktop.ini
+0x000000003ebe7ea0      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries\Documents.library-ms
+0x000000003ebea990      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries\desktop.ini
+0x000000003ebf22b0      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries
+0x000000003ebf2cc0      1      0 R--rwd \Device\HarddiskVolume2\Users\Public\Documents\desktop.ini
+0x000000003ebf3070      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries
+0x000000003ec1a620     16      0 RW-rw- \Device\HarddiskVolume2\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003ec237c0     17      1 RW-rw- \Device\HarddiskVolume2\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003ec35f20      1      0 R--rwd \Device\HarddiskVolume2\$Recycle.Bin\S-1-5-21-3073570648-3149397540-2269648332-1003\desktop.ini
+0x000000003ec9d2b0     18      1 RW-r-- \Device\HarddiskVolume2\Windows\Tasks\SCHEDLGU.TXT
+0x000000003eca0f20      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Contacts\desktop.ini
+0x000000003ecb3420      1      0 R--rwd \Device\HarddiskVolume2\$Recycle.Bin\S-1-5-21-3073570648-3149397540-2269648332-1001\desktop.ini
+0x000000003ed12f20      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Documents\desktop.ini
+0x000000003ed1f9b0      2      0 R--r-d \Device\HarddiskVolume2\Windows\System32\Tasks\Microsoft\Windows\Windows Media Sharing\UpdateLibrary
+0x000000003ed3ea60      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\desktop.ini
+0x000000003ed3f6c0      1      0 R--rwd \Device\HarddiskVolume2\Users\Public\Recorded TV\desktop.ini
+0x000000003ed4d990      2      0 R--rw- \Device\HarddiskVolume2\Program Files\Windows Media Player\Network Sharing\MediaReceiverRegistrar.xml
+0x000000003ed8a370      1      0 R--rwd \Device\HarddiskVolume2\Users\Public\Pictures\Sample Pictures\desktop.ini
+0x000000003edcf540      1      1 ------ \Device\NamedPipe\keysvc
+0x000000003edcf690      2      1 ------ \Device\NamedPipe\keysvc
+0x000000003edd0ea0      1      1 ------ \Device\NamedPipe\keysvc
+0x000000003eddb070      2      0 R--rwd \Device\HarddiskVolume2\Users\Public\Libraries\desktop.ini
+0x000000003ee8c8a0      2      0 R--rwd \Device\HarddiskVolume2\Users\Public\Music\Sample Music\desktop.ini
+0x000000003ee8d8f0      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Local\Microsoft\Windows\Burn\Burn\desktop.ini
+0x000000003ee8edf0      1      0 R--rwd \Device\HarddiskVolume2\Users\Public\Recorded TV\Sample Media\desktop.ini
+0x000000003ee92bf0      1      0 R--rwd \Device\HarddiskVolume2\Windows\Fonts\desktop.ini
+0x000000003eeaf740      1      0 R--rwd \Device\HarddiskVolume2\Windows\Media\Desktop.ini
+0x000000003eeb2f20      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Music\desktop.ini
+0x000000003eebbbf0      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Desktop\desktop.ini
+0x000000003eedbea0      1      1 -W-rw- \Device\HarddiskVolume2\Windows\debug\PASSWD.LOG
+0x000000003ef3af20      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Favorites\Links\desktop.ini
+0x000000003ef71a40      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Videos\desktop.ini
+0x000000003ef71f20      1      0 R--rwd \Device\HarddiskVolume2\Users\Public\Videos\Sample Videos\desktop.ini
+0x000000003efcce20     18      1 RW-r-- \Device\HarddiskVolume2\Windows\System32\winevt\Logs\Key Management Service.evtx
+0x000000003f1cbf20      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance\Desktop.ini
+0x000000003f63e390      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Desktop
+0x000000003f683520      2      0 R--rwd \Device\HarddiskVolume2\Users\Public\desktop.ini
+0x000000003f683670      2      0 R--rwd \Device\HarddiskVolume2\Users\desktop.ini
+0x000000003f685070      2      0 R--rwd \Device\HarddiskVolume2\Users\Public\Music\desktop.ini
+0x000000003f685b30      2      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries\Videos.library-ms
+0x000000003f686070      2      0 R--rwd \Device\HarddiskVolume2\Users\Public\Videos\desktop.ini
+0x000000003f6864e0      2      0 R--rwd \Device\HarddiskVolume2\Users\Public\Libraries\RecordedTV.library-ms
+0x000000003f686a00      2      0 R--rwd \Device\HarddiskVolume2\Users\Public\Pictures\desktop.ini
+0x000000003f686f20      2      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries\Pictures.library-ms
+0x000000003f688070      3      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Libraries
+0x000000003f688ba0      3      1 R--rwd \Device\HarddiskVolume2\Users\Public\Libraries
+0x000000003f6e3490      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Pictures\desktop.ini
+0x000000003f745470      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Saved Games\desktop.ini
+0x000000003fa16cf0      6      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x000000003fa18810      1      0 R--rwd \Device\HarddiskVolume2\Program Files\WinRAR\WinRAR.exe
+0x000000003fa1ae90      3      0 R--r-d \Device\HarddiskVolume2\Program Files\WinRAR\WinRAR.exe
+0x000000003fa1b3d0      1      0 R--rw- \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\WinRAR\version.dat
+0x000000003fa2b8e0     17      1 RW-rw- \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003fa2baf0      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0x000000003fa2e660      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\desktop.ini
+0x000000003fa3ebc0      1      0 R--r-- \Device\HarddiskVolume2\Users\Alissa Simpson\Documents\Important.rar
+0x000000003fa47ad0     11      0 R--r-d \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x000000003fa52830      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x000000003fa5ad10      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt
+0x000000003fa6f2f0      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads
+0x000000003fa6fd10      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads
+0x000000003fa79d50      1      0 R--rw- \Device\HarddiskVolume2\Users\SmartNet\Links\Downloads.lnk
+0x000000003fa7c420      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt
+0x000000003fa9bcf0      6      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x000000003fa9d810      1      0 R--rwd \Device\HarddiskVolume2\Program Files\WinRAR\WinRAR.exe
+0x000000003fa9fe90      3      0 R--r-d \Device\HarddiskVolume2\Program Files\WinRAR\WinRAR.exe
+0x000000003faa03d0      1      0 R--rw- \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\WinRAR\version.dat
+0x000000003fab08e0     17      1 RW-rw- \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003fab0af0      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0x000000003fab3660      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\desktop.ini
+0x000000003fac3bc0      1      0 R--r-- \Device\HarddiskVolume2\Users\Alissa Simpson\Documents\Important.rar
+0x000000003faccad0     11      0 R--r-d \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x000000003fad7830      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x000000003fadfd10      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt
+0x000000003faf42f0      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads
+0x000000003faf4d10      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads
+0x000000003fafed50      1      0 R--rw- \Device\HarddiskVolume2\Users\SmartNet\Links\Downloads.lnk
+0x000000003fb01420      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt
+0x000000003fb20cf0      6      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x000000003fb22810      1      0 R--rwd \Device\HarddiskVolume2\Program Files\WinRAR\WinRAR.exe
+0x000000003fb24e90      3      0 R--r-d \Device\HarddiskVolume2\Program Files\WinRAR\WinRAR.exe
+0x000000003fb253d0      1      0 R--rw- \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\WinRAR\version.dat
+0x000000003fb358e0     17      1 RW-rw- \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003fb35af0      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0x000000003fb38660      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\History\desktop.ini
+0x000000003fb48bc0      1      0 R--r-- \Device\HarddiskVolume2\Users\Alissa Simpson\Documents\Important.rar
+0x000000003fb51ad0     11      0 R--r-d \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x000000003fb5c830      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt\DumpIt.exe
+0x000000003fb64d10      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt
+0x000000003fb792f0      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads
+0x000000003fb79d10      2      1 R--rwd \Device\HarddiskVolume2\Users\SmartNet\Downloads
+0x000000003fb83d50      1      0 R--rw- \Device\HarddiskVolume2\Users\SmartNet\Links\Downloads.lnk
+0x000000003fc61980      1      0 R--rwd \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0x000000003fcf7bb0      1      1 -W-rw- \Device\HarddiskVolume2\Users\ALISSA~1\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+0x000000003fd46d10      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries\Videos.library-ms
+0x000000003fd68680      1      1 RW-rw- \Device\HarddiskVolume2\Users\SmartNet\Downloads\DumpIt\SMARTNET-PC-20191211-143755.raw
+0x000000003fd75070      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Desktop.ini
+0x000000003fd753e0      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries\Documents.library-ms
+0x000000003fd83a90      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance\Desktop.ini
+0x000000003fd881e0      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\desktop.ini
+0x000000003fd89170      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Local\Microsoft\Windows\Burn\Burn\desktop.ini
+0x000000003fd8bcb0      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\desktop.ini
+0x000000003fd8d3f0      2      1 R--rwd \Device\HarddiskVolume2\Users\Public\Desktop
+0x000000003fd8d970      2      1 R--rwd \Device\HarddiskVolume2\Users\Public\Desktop
+0x000000003fd8dbe0      2      1 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Desktop
+0x000000003fd8df20      2      1 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\Desktop
+0x000000003fd90c10      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\desktop.ini
+0x000000003fd91d60      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\desktop.ini
+0x000000003fd93f20      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini
+0x000000003fd97930      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+0x000000003fd98dc0      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Desktop.ini
+0x000000003fd99f20      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries\desktop.ini
+0x000000003fda0070      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\desktop.ini
+0x000000003fda2070      2      1 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries
+0x000000003fda2920      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries\Pictures.library-ms
+0x000000003fda2ea0      2      1 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries
+0x000000003fda6470     12      0 R--r-- \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg
+0x000000003fdaebc0      1      0 R--rwd \Device\HarddiskVolume2\Users\Alissa Simpson\AppData\Roaming\Microsoft\Windows\Libraries\Music.library-ms
+0x000000003fee6c60      1      0 R--rw- \Device\HarddiskVolume2\Users\SmartNet\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\Console RAR manual.lnk
