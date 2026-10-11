@@ -1,0 +1,9 @@
+# Memory images and process dumps
+*.raw
+*.dmp
+
+# Large forensic disk images
+*.dd
+*.E01
+*.img
+*.vmdk
