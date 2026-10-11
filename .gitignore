@@ -7,3 +7,8 @@
 *.E01
 *.img
 *.vmdk
+
+# Memory-analysis dumps and extracted binary data
+*.data
+Lab*/dumped/
+Lab*/mspaint_dump/
