@@ -1,7 +1,6 @@
-# SWS405 Digital Forensics — Assignment 2
+# SWS405 Digital Forensics - Assignment 2
 ## MemLabs Memory Forensics Challenge: Labs 1–5
 
----
 
 ## 1. Introduction
 
